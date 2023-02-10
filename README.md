@@ -1,6 +1,6 @@
 ![header](https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true)
 
-[![Terence's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerenceGrover&count_private=true)](https://github.com/TerenceGrover/github-readme-stats)
+[![Terence's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerenceGrover&count_private=true&theme=transparent&show_icons=true)](https://github.com/TerenceGrover/github-readme-stats)
 
 <!--
 **TerenceGrover/TerenceGrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
