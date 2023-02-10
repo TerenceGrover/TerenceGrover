@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Hi, I'm Terence" src="https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true" style="height:250px" />
+<img alt="Hi, I'm Terence" src="https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true" style="height:220px" />
 </p>
 
 <p align="center">
