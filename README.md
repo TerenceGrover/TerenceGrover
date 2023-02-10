@@ -1,6 +1,6 @@
 ![header](https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true)
 
-![Metrics](https://metrics.lecoq.io/TerenceGrover)
+<div style=align:center>![Metrics](https://metrics.lecoq.io/TerenceGrover)
 
 <!--
 **TerenceGrover/TerenceGrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
