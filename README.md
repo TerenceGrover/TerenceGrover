@@ -1,7 +1,7 @@
 ![header](https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true)
 
 <p align="center">
-  <img alt="My Stats Should render here" src="https://metrics.lecoq.io/TerenceGrover" />
+  <img alt="My Stats Should render here" src="https://github-readme-stats.vercel.app/api?username=TerenceGrover&count_private=true&theme=transparent&show_icons=true" />
 </p>
 
 <!--
