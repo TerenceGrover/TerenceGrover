@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TerenceGrover&theme=react&hide_border=false&include_all_commits=true)" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerenceGrover&theme=react&hide_border=false&include_all_commits=true&layout=compact)" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
