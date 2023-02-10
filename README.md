@@ -1,4 +1,5 @@
-![header](https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true)
+
+<img alt="Hi, I'm Terence" src="https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true" style="height:100px" />
 
 <p align="center">
   <img alt="My Stats Should render here" src="https://github-readme-stats.vercel.app/api?username=TerenceGrover&count_private=true&theme=transparent&show_icons=true" />
