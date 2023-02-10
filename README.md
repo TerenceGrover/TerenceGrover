@@ -1,5 +1,5 @@
 
-<img alt="Hi, I'm Terence" src="https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true" style="height:500px" />
+<img alt="Hi, I'm Terence" src="https://github.com/TerenceGrover/TerenceGrover/blob/main/header.png?raw=true" style="height:400px" />
 
 <p align="center">
   <img alt="My Stats Should render here" src="https://github-readme-stats.vercel.app/api?username=TerenceGrover&count_private=true&theme=transparent&show_icons=true" />
