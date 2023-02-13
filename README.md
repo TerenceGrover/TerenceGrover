@@ -2,7 +2,7 @@
 
 A fullstack developer hyped about creating some funky apps that might make a difference or just make you smile :D
 
-[ ![ LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/tgrovermc/) 
+My linkedIn : [ ![ LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/tgrovermc/) 
 
 # 💻 Tech Stack:
 
