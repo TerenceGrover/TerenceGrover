@@ -1,6 +1,6 @@
 # Hey, I'm Terence
 
-A fullstack developer excited about creating some funky apps that might make a difference or just make you smile :D
+creative developer excited about creating some funky apps that might make a difference or just make you smile :D
 
 My linkedIn : [ ![ LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/tgrovermc/) 
 
@@ -12,5 +12,3 @@ My linkedIn : [ ![ LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.sv
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TerenceGrover&theme=react&hide_border=false&include_all_commits=true)" /><br/>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
